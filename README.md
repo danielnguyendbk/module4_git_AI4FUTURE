@@ -17,11 +17,11 @@ Muc tieu cua nhom la tao ra mot backend co cau truc ro rang, de mo rong, co kha 
 
 | Thanh vien | Vai tro | Nhiem vu chinh |
 | --- | --- | --- |
-| Thai | DevOps | Cau hinh moi truong, Docker, quy trinh build/deploy va ho tro van hanh he thong. |
+| Thái | DevOps | Cau hinh moi truong, Docker, quy trinh build/deploy va ho tro van hanh he thong. |
 | Khoa | Backend | Phat trien API, xu ly logic nghiep vu va tich hop co so du lieu. |
-| Tam | Backend | Xay dung module backend, viet service/controller va ho tro kiem thu API. |
-| Nhan | Backend | Thiet ke va cai dat chuc nang backend, quan ly entity/dto va validate du lieu. |
-| Dat | Backend | Phat trien tinh nang backend, sua loi va hoan thien tai lieu ky thuat. |
+| Tâm | Backend | Xay dung module backend, viet service/controller va ho tro kiem thu API. |
+| Nhân | Backend | Thiet ke va cai dat chuc nang backend, quan ly entity/dto va validate du lieu. |
+| Đạt | Backend | Phat trien tinh nang backend, sua loi va hoan thien tai lieu ky thuat. |
 
 ## Cau truc du an
 
