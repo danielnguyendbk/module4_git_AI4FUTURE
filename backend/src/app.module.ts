@@ -5,6 +5,10 @@ import { InfrastructureHealthModule } from './infrastructure/infrastructure-heal
 
 @Module({
   imports: [InfrastructureHealthModule],
+import { UserModule } from './user/user.module';
+
+@Module({
+  imports: [UserModule],
   controllers: [AppController],
   providers: [AppService],
 })
