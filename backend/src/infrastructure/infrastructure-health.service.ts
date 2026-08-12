@@ -23,7 +23,8 @@ export class InfrastructureHealthService {
     ]);
 
     return {
-      status: database.status === 'up' && redis.status === 'up' ? 'ok' : 'error',
+      status:
+        database.status === 'up' && redis.status === 'up' ? 'ok' : 'error',
       database,
       redis,
     };
